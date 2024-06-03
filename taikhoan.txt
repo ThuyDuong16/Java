@@ -1,0 +1,9 @@
+phía admin:
+tài khoản: admin  mật khẩu: 123
+
+phía người dùng:
+tài khoản: 2021602720  mật khẩu: 123        
+
+tài khoản: 2021608013  mật khẩu: 123        
+
+tài khoản: 2020605626  mật khẩu: 123       
